@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@800&display=swap');
+
+/* Nav Styles */
+.nav-title {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 28px;
+    font-style: normal;
+}
